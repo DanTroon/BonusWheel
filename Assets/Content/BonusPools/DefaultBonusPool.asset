@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ff33dbbcf7531489ed6243c9fe08cf, type: 3}
+  m_Name: DefaultBonusPool
+  m_EditorClassIdentifier: 
+  _outcomes:
+  - id: life30
+    item: {fileID: 11400000, guid: 912c368c4811fb7428cdfcca4ea07757, type: 2}
+    quantity: 30
+    weight: 20
+  - id: brush3
+    item: {fileID: 11400000, guid: e4568be2f7d06a0459d7cc2f1768a3af, type: 2}
+    quantity: 3
+    weight: 10
+  - id: gem35
+    item: {fileID: 11400000, guid: 56aab41047a50c244a7621f538ced0c1, type: 2}
+    quantity: 35
+    weight: 10
+  - id: hammer3
+    item: {fileID: 11400000, guid: 38d0cb2967859a348995d56ca0d2d312, type: 2}
+    quantity: 3
+    weight: 10
+  - id: coin750
+    item: {fileID: 11400000, guid: b8eea020626deda4e82e1cc6c2ea5428, type: 2}
+    quantity: 750
+    weight: 5
+  - id: brush1
+    item: {fileID: 11400000, guid: e4568be2f7d06a0459d7cc2f1768a3af, type: 2}
+    quantity: 1
+    weight: 20
+  - id: gem75
+    item: {fileID: 11400000, guid: 56aab41047a50c244a7621f538ced0c1, type: 2}
+    quantity: 75
+    weight: 5
+  - id: hammer1
+    item: {fileID: 11400000, guid: 38d0cb2967859a348995d56ca0d2d312, type: 2}
+    quantity: 1
+    weight: 20
